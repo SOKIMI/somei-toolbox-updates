@@ -1,11 +1,11 @@
 {
-  "version": "0.4.52",
-  "notes": "SOMEI Toolbox 0.4.52",
-  "pub_date": "2026-09-30T16:07:56.829Z",
+  "version": "0.4.53",
+  "notes": "SOMEI Toolbox 0.4.53",
+  "pub_date": "2026-10-02T18:50:59.576Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVHJiNnBUb3VrcGlWbVV0MkVCVUFhYU5qa21maHBjaEEwS3FFNHQvSXB2N1lnRE1FcDN6M0lnbmxkR3pTVWN0WGJsMEcvYi9aZHREWThscW1Tc1VTdnNxaW1uaTJFYWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzg0MjQ4CWZpbGU6U09NRUkgVG9vbGJveF8wLjQuNTJfeDY0LXNldHVwLmV4ZQpqeXpnaElKQlphcDdUWi94ZGlaYnpXY2pyNGpyUzZQT1YzZTZnaExNNGl3d1BTdGViSzJjSVZuQjFMd0dobDRNWjJpbS9VYU9OZkhYS3hQeWFRNlFEdz09Cg==",
-      "url": "https://github.com/SOKIMI/somei-toolbox-updates/releases/download/v0.4.52/SOMEI-Toolbox_0.4.52_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVHJiNnBUb3VrcGp5eGY5MENOT3VzZVVtVVdQaW1UYWNLd0NnZ0lNUnFHWi9DdVUvMmZtc2dxTVYxWU5YdjhyaFFXTi94cVk0ck9KR21wWnRmNnF1RGl2TnVPbmtNNlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTY3MDMzCWZpbGU6U09NRUkgVG9vbGJveF8wLjQuNTNfeDY0LXNldHVwLmV4ZQp2SjdHeEkrUmJ0OTZCZUJKVU5teG1GaTd4N21UN2lyKytNNGlRbFFhTjdpUlVvYXArdXFENnNWbXl4ay9qd0c4d1ZJT3p1ZnAyRC9uZ2ptcytSaVlEQT09Cg==",
+      "url": "https://github.com/SOKIMI/somei-toolbox-updates/releases/download/v0.4.53/SOMEI-Toolbox_0.4.53_x64-setup.exe"
     }
   }
 }
