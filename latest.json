@@ -1,11 +1,11 @@
 {
-  "version": "0.4.74",
-  "notes": "Cursor status now pulses one character at a time and shows three bouncing dots while working.",
-  "pub_date": "2026-11-24T17:01:11.373Z",
+  "version": "0.4.75",
+  "notes": "Selected screenshots stay on the local computer. Paired Chatroom hosts with selection continuation support can use minimal observations for research and analysis in the same turn.",
+  "pub_date": "2026-11-25T04:21:21.969Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVHJiNnBUb3VrcGxCWXdvZUJrVTFpT2pJYlNmTDVnQW1TSk5teVByV2RCMEhlb1FnTTRUNDkxM0F2anFPQ01DazZWTHZzTzJEQzR6SWRRY2VaSG5ya3RWTjF4NWY2dWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTM5NjQ1CWZpbGU6U09NRUkgVG9vbGJveF8wLjQuNzRfeDY0LXNldHVwLmV4ZQpySHFjUGt5dDNJenNsZk9XT2NSQmpDOGFCRWRVazNVaE5OeGNXL05rUjNWRTREaDhTYllERUs3RUNYcmM0b2ZRbVBtNFh0cHg5OTc1MkRWTnFVRFRBQT09Cg==",
-      "url": "https://github.com/SOKIMI/somei-toolbox-updates/releases/download/v0.4.74/SOMEI-Toolbox_0.4.74_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVHJiNnBUb3VrcG00cVRyTEJ5RUVlU3FQNWpRQkIxQ2tZTFZhTlVTK2pCMzhzM005VWRiOS9qQjZBbmFVNnIyOFVxYUl4N2JCRklFNGV5aE5TaGJZZ3ArWHpTdzFWMndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTgwNDQ3CWZpbGU6U09NRUkgVG9vbGJveF8wLjQuNzVfeDY0LXNldHVwLmV4ZQpYc0s2aXV1TDZvVnAyc2twRHpwT0ljOTViZExwM3dqQW5DM0djcnFrTEtkVksyTzFXVTIva1ZIbWFZRC9samExbTNNQWhoRDNrOVQzdHg5OXFtQTRBQT09Cg==",
+      "url": "https://github.com/SOKIMI/somei-toolbox-updates/releases/download/v0.4.75/SOMEI-Toolbox_0.4.75_x64-setup.exe"
     }
   }
 }
